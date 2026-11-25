@@ -1,0 +1,6 @@
+model,MAE,RMSE,sMAPE_%,R2
+Gradient Boosting (Poisson),2.607,3.704,46.875,0.826
+Random Forest,2.674,3.826,47.859,0.814
+Historical average,2.663,3.99,48.184,0.798
+Ridge regression,2.883,4.037,50.16,0.793
+Seasonal naive (last week),3.371,4.904,55.253,0.695
